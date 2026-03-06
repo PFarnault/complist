@@ -17,7 +17,7 @@ python main.py <data-dir> [--format] [--output]
 
 ## remarks 
 
-- The incidence matrix only represent if two elements are linked, it does not mention any direction or weights. 
+- The incidence matrix only tell if two elements are linked, it does not mention any direction or weights. 
 
 
 
